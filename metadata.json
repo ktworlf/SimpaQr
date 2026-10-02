@@ -1,0 +1,6 @@
+{
+  "name": "SimpaQr",
+  "description": "Professional clean iOS-styled QR scanner, AI visual analyzer, and studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
